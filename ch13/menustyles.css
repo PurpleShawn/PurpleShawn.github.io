@@ -14,7 +14,7 @@ body {
     background: /*for modern browsers*/
       url(images/purpledot.png) left top repeat-y,
       url(images/purpledot.png) right top repeat-y,
-      url(images/purpledot.png) 90% bottom repeat-y;
+      url(images/gooseshadow.png) 90% bottom repeat-y;
   }
   
   a {
